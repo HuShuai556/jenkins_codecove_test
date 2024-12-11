@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-// int aaa()
-// {
-//     return 0;
-// }
+int aaa()
+{
+    return 0;
+}
 
 int main() {
     // 打印 "Hello, World!" 到控制台
